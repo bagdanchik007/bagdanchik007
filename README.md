@@ -65,36 +65,6 @@ developer = {
 
 </div>
 
----
-
-## 🚀 Projekte / Projects
-
-### DevConnect – Fullstack-Plattform für Entwickler `2026 – heute`
-LinkedIn-inspirierte Plattform für Entwickler mit offenem Quellcode und sauberer Architektur.
-- Entwicklerprofile, Stellenangebote und Bewerbungen, Verbindungen zwischen Nutzern
-- Skill-basierte Job- und Personenempfehlungen
-- Echtzeit-Benachrichtigungen
-
-### Hobby x86_64 Kernel `2026`
-Monolithischer Betriebssystemkern für x86_64 in freistehendem C++ und Assembly.
-- Multiboot2-Boot-Prozess: Übergang von 32-bit Protected Mode zu 64-bit Long Mode
-- Physical & Virtual Memory Manager (Bitmap-Allocator, 4-Level Paging)
-- GDT, TSS, IDT mit vollständigem Exception-Handling, PIC-Remapping, PIT-Timer
-- Präemptiver Round-Robin-Scheduler mit Kontextwechsel in x86_64-Assembly
-
-### Mario Clone (C++ / SFML) `2026`
-Super-Mario-Bros-Klon in C++20, entwickelt in klar getrennten Etappen.
-- Player-Physik & State Machine, AABB-Kollisionssystem, Kamera mit Soft-Follow
-- Gegner-KI über Komposition statt Vererbung, Power-up-System, Partikeleffekte
-- Datengetriebene Levels über JSON inkl. Save/Load-System
-
-### Grundlagen: Funktionen & mathematische Programmierung `2025`
-Selbststudium zur Vertiefung von Funktionen, Algorithmen und mathematischer Programmierung als Grundlage für spätere Projekte.
-- Übungen zu Datenstrukturen, Rekursion und Komplexitätsanalyse
-- Erste eigenständige Skripte zur Lösung mathematischer Probleme in Python
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
