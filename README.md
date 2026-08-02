@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4aa&height=200&section=header&text=Bohdan%20Skibitskyi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer%20%7C%20Python%20%7C%20C%2B%2B&descAlignY=58&descColor=00d4aa" />
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hallo!+Ich+bin+Bohdan+%F0%9F%91%8B;Backend+%26+Systems+Developer;Python+%7C+FastAPI+%7C+C%2B%2B+%7C+Systems+Programming;Auf+der+Suche+nach+Ausbildungsplatz+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
